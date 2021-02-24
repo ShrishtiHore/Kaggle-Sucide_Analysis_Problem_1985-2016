@@ -10,7 +10,7 @@ In this problem a compiled dataset pulled from four other datasets linked by tim
 
 **Keywords:** data analysis, plots, graphs, data cleaning, data science
 
-**Dataset:** ![Kaggle Suicide Analysis Dataset](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+**Dataset:** [Kaggle Suicide Analysis Dataset](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
 **Step 1:** Import all the necessary Libraries and Modules. Download and extract the data from Kaggle.
 
@@ -28,6 +28,6 @@ In this problem a compiled dataset pulled from four other datasets linked by tim
 
 **Results**
 
-![plots]()
+![plots](https://github.com/ShrishtiHore/Kaggle-Sucide_Analysis_Problem_1985-2016/blob/master/suixide.png)
 
 ![everything](https://github.com/ShrishtiHore/Kaggle-Sucide_Analysis_Problem_1985-2016/blob/master/1985-2016.png)
