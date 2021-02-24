@@ -28,6 +28,6 @@ In this problem a compiled dataset pulled from four other datasets linked by tim
 
 **Results**
 
-![]()
+![plots]()
 
-![everything]()
+![everything](https://github.com/ShrishtiHore/Kaggle-Sucide_Analysis_Problem_1985-2016/blob/master/1985-2016.png)
